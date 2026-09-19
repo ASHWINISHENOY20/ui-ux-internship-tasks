@@ -16,6 +16,4 @@ Briefly explain the problem you are solving or what needed redesigning.
 - High-Fidelity UI Screens
 - Interactive Component States
 
-##  Live Links
-- [Figma File](https://www.figma.com/...)
-- [Prototype Demo](https://www.figma.com/proto/...)
+
