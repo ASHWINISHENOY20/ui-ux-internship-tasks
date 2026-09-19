@@ -11,8 +11,11 @@ Building directly upon the low-fidelity architecture from Task 1, this milestone
 ##  Interaction Scope & Navigation Architecture
 
 | Onboarding → Sign Up | Push / Slide Left (300ms ease-out) | Creates a progressive forward motion as the user begins the account creation journey. |
+
 | Sign Up → Set First Goal| Smart Animate (250ms linear) | Bypasses empty dashboards and immediately primes user engagement with a single task setup. |
+
 | Save Goal → Dashboard | Instant with Button Feedback | Delivers immediate feedback on action completion and reveals updated metrics in the hub. |
+
 | Bottom Bar → Analytics | Instant Tab Transition | Provides responsive switching between daily operational tasks and historical progress analytics. |
 
 ## Usability Testing & Observations
