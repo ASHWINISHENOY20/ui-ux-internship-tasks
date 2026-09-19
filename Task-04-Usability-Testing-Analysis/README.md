@@ -41,5 +41,4 @@ A usability evaluation of the Canara Engineering College website conducted throu
 3. Streamlined Navigation Labels: Reduce menu depth and group academic offerings under unified categorical tags.
 4. Dedicated Events Hub: Provide a distinct card carousel for live notices to prevent critical deadlines from blending into layout images.
 
-##  Submission Artifacts
-- 📄 [Complete Usability Evaluation Report (PDF)](./task4.pdf)
+
