@@ -13,17 +13,24 @@ A usability evaluation of the Canara Engineering College website conducted throu
 ##  Test Scenarios
 
 | T1| Find the courses/programs offered by the college | Navigation path & academic taxonomy |
+
 | T2| Locate admission requirements and procedures | Discoverability of admissions portal |
+
 | T3| Find official college contact details | Visibility of primary contact access points |
+
 | T4 | Access recent news, events, and announcements | Ease of locating time-sensitive updates |
+
 
 
 ##  Observations & Usability Metrics
 
 ### Observation Log
 - T1 (Courses): 100% success rate (Avg: ~35s). Found with minimal hesitation across desktop and mobile.
+
 - T2 (Admissions): 80% success rate (Avg: ~53s). Users hesitated navigating multi-tiered menu options.
+  
 - T3 (Contact Info): 60% success rate (Avg: ~56s). Highest friction point; multiple participants struggled without explicit footer/header prominence.
+
 - T4 (News/Events): 80% success rate (Avg: ~50s). Users required deeper scrolling to distinguish active notices from static banners.
 
 
