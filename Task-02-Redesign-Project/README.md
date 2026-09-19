@@ -1,4 +1,4 @@
-# Task 02: [Project Name / Redesign Title]
+# Task 02: redesign website
 
 ##  Problem Statement
 Briefly explain the problem you are solving or what needed redesigning.
