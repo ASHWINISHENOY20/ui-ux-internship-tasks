@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="1440" height="1024" viewBox="0 0 1440 1024">
+<defs>
+ <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B2E6F"/><stop offset="1" stop-color="#1D62C8"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-opacity=".13"/></filter>
+ <clipPath id="heroClip"><rect x="80" y="155" width="1280" height="390" rx="28"/></clipPath>
+</defs>
+<rect width="1440" height="1024" fill="#E9EEF5"/>
+<rect x="500" y="25" width="440" height="974" rx="44" fill="#102A56"/>
+<rect x="515" y="40" width="410" height="944" rx="32" fill="white"/>
+<image x="545" y="65" width="62" height="62" preserveAspectRatio="xMidYMid meet" xlink:href="{logo}"/>
+<text x="850" y="100" font-family="Arial" font-size="28" fill="#102A56">☰</text>
+<g clip-path="url(#heroClip)"><image x="535" y="145" width="370" height="270" preserveAspectRatio="xMidYMid slice" xlink:href="{campus}"/></g>
+<rect x="535" y="145" width="370" height="270" rx="24" fill="#0B2E6F" opacity=".62"/>
+<text x="565" y="225" font-family="Arial" font-size="34" font-weight="800" fill="white">Shape your<br/>future at CEC.</text>
+<text x="565" y="290" font-family="Arial" font-size="15" fill="#E5EEFF">Learn • Innovate • Lead</text>
+<rect x="565" y="325" width="130" height="42" rx="21" fill="white"/><text x="630" y="352" text-anchor="middle" font-family="Arial" font-size="14" font-weight="800" fill="#0B2E6F">Explore</text>
+<text x="535" y="460" font-family="Arial" font-size="23" font-weight="800" fill="#102A56">Programmes</text><rect x="535" y="490" width="370" height="100" rx="18" fill="#F7F9FC" stroke="#E0E7F0"/>
+<circle cx="575" cy="540" r="22" fill="#E8F0FF"/><text x="575" y="546" text-anchor="middle" font-family="Arial" font-size="10" font-weight="800" fill="#1D62C8">CSE</text>
+<text x="615" y="533" font-family="Arial" font-size="15" font-weight="800" fill="#102A56">Computer Science &amp; Engineering</text>
+<text x="615" y="558" font-family="Arial" font-size="13" fill="#1D62C8">View programme →</text><rect x="535" y="615" width="370" height="100" rx="18" fill="#F7F9FC" stroke="#E0E7F0"/>
+<circle cx="575" cy="665" r="22" fill="#E8F0FF"/><text x="575" y="671" text-anchor="middle" font-family="Arial" font-size="10" font-weight="800" fill="#1D62C8">CSBS</text>
+<text x="615" y="658" font-family="Arial" font-size="15" font-weight="800" fill="#102A56">Computer Science &amp; Business System</text>
+<text x="615" y="683" font-family="Arial" font-size="13" fill="#1D62C8">View programme →</text><rect x="535" y="740" width="370" height="100" rx="18" fill="#F7F9FC" stroke="#E0E7F0"/>
+<circle cx="575" cy="790" r="22" fill="#E8F0FF"/><text x="575" y="796" text-anchor="middle" font-family="Arial" font-size="10" font-weight="800" fill="#1D62C8">AIML</text>
+<text x="615" y="783" font-family="Arial" font-size="15" font-weight="800" fill="#102A56">Artificial Intelligence &amp; ML</text>
+<text x="615" y="808" font-family="Arial" font-size="13" fill="#1D62C8">View programme →</text><rect x="535" y="875" width="370" height="55" rx="28" fill="#19A974"/><text x="720" y="910" text-anchor="middle" font-family="Arial" font-size="16" font-weight="800" fill="white">Apply Now</text></svg>
